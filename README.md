@@ -16,7 +16,7 @@ Add the Censys API ID and secret found under [My Account](https://censys.io/acco
 export CENSYS_ID="<Your apid id>"
 export CENSYS_SECRET="<your api secret>"
 ```
-
+Run the main script:
 ```bash
 python main.py
 ```
