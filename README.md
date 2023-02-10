@@ -1,7 +1,8 @@
 # CensysAssessment
 This is an assessment given by Censys for the role of  Censys Summer 2023 Intern
 
-script for getting validity dates and the SHA256 fingerprint of certificates with the query- parsed.names: censys.io and tags: trusted.
+Script for getting validity dates and the SHA256 fingerprint of certificates with the query- parsed.names: censys.io and tags: trusted.
+Sample response in: `censys_sha256_records.csv`
 
 ## Install
 
