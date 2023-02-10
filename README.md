@@ -12,8 +12,10 @@ pip install -r requirements.txt
 ## Run
 Create a file name `.env`
 Add the Censys API ID and secret found under [My Account](https://censys.io/account/api) to `.env` as follows:
+```bash
 export CENSYS_ID="<Your apid id>"
 export CENSYS_SECRET="<your api secret>"
+```
 
 ```bash
 python main.py
